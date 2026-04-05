@@ -54,7 +54,7 @@ Then open `http://localhost:8000` (or `:3000` for serve)
 
 ## Deployment
 
-Hosted on GitHub Pages at: [your-username.github.io/skribbl-clone](https://your-username.github.io/skribbl-clone)
+Hosted on GitHub Pages at: [uphomesco-hub.github.io/skribble-clone](https://uphomesco-hub.github.io/skribble-clone)
 
 ## Architecture
 
